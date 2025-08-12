@@ -347,7 +347,7 @@ body {
 .timeline-item::before {
     content: '';
     position: absolute;
-    left: -35px;
+    left: -38px;
     top: 5px;
     width: 12px;
     height: 12px;
@@ -671,11 +671,11 @@ body {
     }
 
     .timeline::before {
-        left: 0;
+        left: 10px;
     }
 
     .timeline-item::before {
-        left: -6px;
+        left: -18px;
     }
 
     .education-card {
